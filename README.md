@@ -34,15 +34,15 @@
 Here are some of my key projects:
 1. **Spam Email Detection**  
    - Developed a machine learning model to identify spam emails with high accuracy.  
-   - [GitHub Repository](#) _(Add link if available)_
+ 
 
 2. **Spotify Clone**  
    - A responsive music streaming web app inspired by Spotify's design and functionality.  
-   - [GitHub Repository](#) _(Add link if available)_
+  
 
 3. **E-Commerce Website**  
    - A full-stack e-commerce platform with dynamic product listings, user authentication, and payment integration.  
-   - [GitHub Repository](#) _(Add link if available)_
+   
 
 ---
 
@@ -59,7 +59,7 @@ Here are some of my key projects:
 
 ## 📫 Connect with Me
 - **Email**: [kuldeepjhorar40@gmail.com](mailto:kuldeepjhorar40@gmail.com)  
-- **LinkedIn**: [Your LinkedIn Profile](#) _(Add link)_  
+- **LinkedIn**: [[Your LinkedIn Profile](https://www.linkedin.com/in/kuldeep-jhorar/)](#)   
 - **GitHub**: [GitHub Profile](https://github.com/kuldeepjhorar40)
 
 ---
