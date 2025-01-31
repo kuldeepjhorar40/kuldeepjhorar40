@@ -19,6 +19,8 @@
 
 ## 📫 Let's Connect & Collaborate
 
+- 🏅 **LeetCode:** [Kuldeep Jhorar](https://leetcode.com/u/kuldeepjhorad/)
+
 - 🌐 **LinkedIn:** [Kuldeep Jhorar](https://www.linkedin.com/in/kuldeep-jhorar/)
 - 🏆 **GitHub:** [kuldeepjhorar40](https://github.com/kuldeepjhorar40)
 
