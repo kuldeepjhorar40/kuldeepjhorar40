@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:7c3aed,100:00ff88&height=200&section=header&text=Kuldeep%20Jhorar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Building%20AI%20%E2%80%A2%20Solving%20Problems%20%E2%80%A2%20Crafting%20Scalable%20Systems&descSize=16&descAlignY=58&descColor=a5b4fc&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Science+Intern+%40+CodeSoft;AI+%7C+Backend+Systems+%7C+Scalable+Architecture;Competitive+Programmer+%7C+DSA+Enthusiast;Always+Learning.+Always+Building.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%7C+Backend+Systems+%7C+Scalable+Architecture;Competitive+Programmer+%7C+DSA+Enthusiast;Always+Learning.+Always+Building.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -27,8 +27,7 @@
 
 ```yaml
 name       : Kuldeep Jhorar
-role       : Data Scientist Intern @ CodeSoft
-education  : B.Tech Computer Science — 4th Semester
+education  : B.Tech Computer Science — 6th Semester
 location   : India
 focus      : AI-Powered Applications · Backend Engineering · System Design
 status     : Open to Internships & Collaborations
@@ -65,7 +64,6 @@ philosophy : "Code with clarity. Build with purpose. Learn without limits."
 **Web Development**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -80,7 +78,6 @@ philosophy : "Code with clarity. Build with purpose. Learn without limits."
 **Cloud · DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -144,12 +141,6 @@ Upload a crop image → AI model detects the disease → returns actionable trea
 <tr>
 <td colspan="2" align="center" valign="top">
 
-### Bitcoin Real-Time Prediction Model
-Live market data training pipeline using the CoinGecko API and deep learning for real-time price forecasting.
-
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![CoinGecko API](https://img.shields.io/badge/-CoinGecko%20API-8BC34A?style=flat-square)
-![Time Series](https://img.shields.io/badge/-Time%20Series-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 </td>
 </tr>
