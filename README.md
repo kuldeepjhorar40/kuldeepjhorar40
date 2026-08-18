@@ -1,249 +1,350 @@
 <div align="center">
 
-# 👋 Hi, I'm Kuldeep Jhorar
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:00E5FF,45:7C3AED,100:00FFB2&text=Kuldeep%20Jhorar&fontColor=FFFFFF&fontSize=58&fontAlignY=35&desc=AI%20%7C%20Software%20Engineering%20%7C%20Scalable%20Systems&descAlignY=58&descSize=18&animation=fadeIn" alt="Kuldeep Jhorar"/>
 
-### AI & Data Science Student • Software Developer • AI/ML Enthusiast
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=850&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+AI+that+ships.;Engineering+backends+that+scale.;Exploring+distributed+systems.;Turning+ideas+into+production-ready+software." alt="Typing Animation"/>
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Learning+Backend+%26+System+Design;Exploring+Machine+Learning+%26+Scalable+Systems;Turning+ideas+into+real-world+projects" />
-
-<br/>
+<br/><br/>
 
 <a href="https://github.com/kuldeepjhorar40">
-  <img src="https://img.shields.io/badge/GitHub-kuldeepjhorar40-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-kuldeepjhorar40-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+<img src="https://img.shields.io/badge/AI%20%26%20ML-00E5FF?style=for-the-badge&logo=probot&logoColor=0D1117" alt="AI ML"/>
+<img src="https://img.shields.io/badge/Backend-7C3AED?style=for-the-badge&logo=serverless&logoColor=white" alt="Backend"/>
+<img src="https://img.shields.io/badge/Scalable%20Systems-00FFB2?style=for-the-badge&logo=apachekafka&logoColor=0D1117" alt="Scalable Systems"/>
 
-<a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
+<br/><br/>
 
-<a href="#">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=kuldeepjhorar40&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/kuldeepjhorar40?label=FOLLOWERS&style=flat-square&color=00E5FF&labelColor=0D1117" alt="Followers"/>
 
 </div>
 
----
+kuldeep@github:~$ whoami
 
-## 👨‍💻 About Me
+╭──────────────────────────────────────────────────────────────────────╮
+│  KULDEEP JHORAR                                                      │
+├──────────────────────────────────────────────────────────────────────┤
+│  🎓 B.Tech — Artificial Intelligence & Data Science                  │
+│  🏫 CGC University, Mohali                                           │
+│  📅 Sep 2023 — Jul 2027                                              │
+│  📍 Punjab, India                                                    │
+│                                                                      │
+│  ⚡ AI & Software Engineering Student                               │
+│  🧠 AI/ML • Backend • Full Stack • System Design                     │
+│  🥇 Smart India Hackathon 2024 — National Runner-Up                  │
+│  👨‍💻 Tech Head — GFG Campus Body, CGC University                    │
+│                                                                      │
+│  🎯 Building production-ready AI systems and scalable software.      │
+╰──────────────────────────────────────────────────────────────────────╯
 
-```yaml
-name: Kuldeep Jhorar
-degree: B.Tech - Artificial Intelligence & Data Science
-university: CGC University, Mohali
+<p align="center">
+  <strong>Code with clarity. Build with purpose. Learn without limits.</strong>
+</p>
 
-interests:
-  - Software Engineering
-  - Artificial Intelligence
-  - Machine Learning
-  - Backend Development
-  - System Design
+🚀 About Me
 
-currently_learning:
-  - Advanced DSA
-  - Backend Engineering
-  - Machine Learning
-  - Scalable Systems
+I'm Kuldeep Jhorar, a B.Tech student specializing in Artificial Intelligence & Data Science at CGC University, Mohali.
 
-status: Open to Internships & Collaborations
-```
+I like building at the intersection of AI and software engineering — intelligent applications, ML/NLP pipelines, backend APIs, asynchronous processing, distributed systems and full-stack products.
 
-* 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science**
-* 💻 Interested in **Software Engineering, AI/ML and Backend Development**
-* 🧠 Exploring **Machine Learning, Distributed Systems and System Design**
-* 🏆 **Smart India Hackathon 2024 — National Runner-Up**
-* 🌱 Constantly improving my **DSA and development skills**
-* 🚀 Focused on building practical and production-oriented projects
+🎓 8.82 CGPA
 
----
+🥇 Smart India Hackathon 2024 — National Runner-Up
 
-# 🛠️ Tech Stack
+👨‍💻 Tech Head — GFG Campus Body, CGC University
 
-<div align="center">
+🧩 Consistently improving DSA, problem solving and system design
 
-### Languages
+🎯 Targeting Software Engineering / AI Engineering / Backend Engineering
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" />
+🛠️ Tech Stack
 
-<br/><br/>
+Languages
 
-### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
-<br/><br/>
+Frontend & Backend
 
-### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
 
-<br/><br/>
+Databases & Infrastructure
 
-### Databases
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
 
-<br/><br/>
+Tools
 
-### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
 
-</div>
+AI / Machine Learning
 
-### 🤖 AI / Machine Learning
+<p>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit Learn"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logoColor=white" alt="spaCy"/>
+<img src="https://img.shields.io/badge/NLP-111827?style=for-the-badge&logoColor=00E5FF" alt="NLP"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="Deep Learning"/>
+</p>
 
-<div align="center">
-
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge)
-![NLTK](https://img.shields.io/badge/NLTK-NLP-4CAF50?style=for-the-badge)
-
-</div>
-
----
-
-# 🚀 Featured Projects
+🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
+<h3>🤖 AI Resume Analyzer</h3>
+<p>AI-powered resume intelligence platform for parsing resumes, extracting skills, scoring profiles and generating career-focused recommendations.</p>
 
-### 🤖 AI Resume Analyzer
+<p><strong>Engineering focus</strong></p>
+<p>
+<code>React</code>
+<code>Django</code>
+<code>Python</code>
+<code>NLP</code>
+<code>ML</code>
+<code>Redis</code>
+<code>Celery</code>
+</p>
 
-AI-powered platform for analyzing resumes, extracting skills, scoring candidates and providing intelligent career recommendations.
-
-**Tech Stack**
-
-`React` `Django` `Python` `NLP` `Machine Learning` `Redis`
-
-<br/>
-
+<p>
 <a href="https://github.com/kuldeepjhorar40/AI-resume-analyser">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="AI Resume Analyzer"/>
 </a>
-
+</p>
 </td>
 
 <td width="50%" valign="top">
+<h3>⚙️ Distributed Job Queue System</h3>
+<p>Asynchronous job-processing architecture with priority queues, concurrent workers, retries, failure handling and dead-letter queues.</p>
 
-### ⚙️ Distributed Job Queue System
+<p><strong>Engineering focus</strong></p>
+<p>
+<code>Node.js</code>
+<code>Express</code>
+<code>MongoDB</code>
+<code>Redis</code>
+<code>Workers</code>
+<code>Queues</code>
+</p>
 
-Asynchronous job-processing architecture with priority queues, concurrent workers, retries and dead-letter queues.
-
-**Tech Stack**
-
-`Node.js` `Express.js` `MongoDB` `Redis`
-
-<br/>
-
+<p>
 <a href="https://github.com/kuldeepjhorar40/Distributed-Job-Queue-System">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Distributed Job Queue"/>
 </a>
-
+</p>
 </td>
 </tr>
 
 <tr>
 <td width="50%" valign="top">
+<h3>🌾 Crop Disease Detection</h3>
+<p>Deep-learning application that analyzes crop images and predicts plant diseases using computer-vision classification.</p>
 
-### 🌾 Crop Disease Detection
-
-Deep-learning application designed to detect crop diseases from plant images using computer vision.
-
-**Tech Stack**
-
-`Python` `Deep Learning` `Computer Vision`
-
-<br/>
-
-<img src="https://img.shields.io/badge/AI_Project-Computer_Vision-0A66C2?style=for-the-badge"/>
-
+<p>
+<code>Python</code>
+<code>Deep Learning</code>
+<code>Computer Vision</code>
+<code>Image Classification</code>
+</p>
 </td>
 
 <td width="50%" valign="top">
+<h3>🏠 Wonderlust</h3>
+<p>Full-stack property platform with authentication, listings, reviews and database-backed application workflows.</p>
 
-### 🏠 Wonderlust
+<p>
+<code>Node.js</code>
+<code>Express</code>
+<code>MongoDB</code>
+<code>JavaScript</code>
+<code>Full Stack</code>
+</p>
+</td>
+</tr>
 
-Full-stack property listing platform featuring authentication, listings, reviews and database integration.
+<tr>
+<td width="50%" valign="top">
+<h3>📧 AI Email Assistant</h3>
+<p>Human-in-the-loop AI workflow for understanding email context, drafting intelligent responses and coordinating approved calendar actions.</p>
 
-**Tech Stack**
+<p>
+<code>LLMs</code>
+<code>Automation</code>
+<code>Context</code>
+<code>Human Approval</code>
+</p>
+</td>
 
-`Node.js` `Express.js` `MongoDB` `JavaScript`
+<td width="50%" valign="top">
+<h3>🧩 What I Like Building</h3>
+<p>Systems where AI meets real software engineering:</p>
 
-<br/>
-
-<img src="https://img.shields.io/badge/Full_Stack_Project-MERN-47A248?style=for-the-badge"/>
-
+<p>
+<code>Intelligent APIs</code>
+<code>ML Pipelines</code>
+<code>Async Workers</code>
+<code>Reliable Backends</code>
+<code>Distributed Systems</code>
+</p>
 </td>
 </tr>
 </table>
 
----
+<p align="center">
+<a href="https://github.com/kuldeepjhorar40?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="Repositories"/>
+</a>
+</p>
 
-# 📊 GitHub Analytics
+🏆 Achievements & Leadership
 
-<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kuldeepjhorar40&show_icons=true&hide_border=true&rank_icon=github" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeepjhorar40&layout=compact&hide_border=true" />
+Highlight
 
-<br/>
+Details
 
-<img src="https://streak-stats.demolab.com?user=kuldeepjhorar40&hide_border=true" />
+🥇
 
-</div>
+Smart India Hackathon 2024
 
----
+National Runner-Up
 
-# 🐍 Contribution Activity
+🎓
 
-<div align="center">
+Academics
 
-<img src="https://raw.githubusercontent.com/kuldeepjhorar40/kuldeepjhorar40/output/github-contribution-grid-snake.svg" />
+8.82 CGPA — B.Tech AI & Data Science
 
-</div>
+👨‍💻
 
----
+Leadership
 
-# 🎯 Current Focus
+Tech Head — GFG Campus Body, CGC University
 
-<div align="center">
+🧩
 
-| 💻 Software Engineering |   🤖 AI / ML  |      ⚙️ Backend     |      🧠 DSA     |
-| :---------------------: | :-----------: | :-----------------: | :-------------: |
-|    Clean Architecture   |      NLP      |      REST APIs      | Problem Solving |
-|      System Design      |   ML Models   |        Redis        |    Algorithms   |
-|     Scalable Systems    | Deep Learning | Distributed Systems | Data Structures |
+Problem Solving
 
-</div>
+Regular DSA & LeetCode practice
 
----
+⚙️
 
-# 📫 Connect With Me
+Engineering
 
-<div align="center">
+AI, Backend, System Design & Distributed Systems
 
-### Let's connect and build something interesting.
+🧠 Engineering Path
 
+Artificial Intelligence
+         ↓
+Machine Learning Systems
+         ↓
+Intelligent APIs
+         ↓
+Backend Engineering
+         ↓
+System Design
+         ↓
+Distributed Systems
+         ↓
+Production Engineering
+
+💻 DSA & Problem Solving
+
+Arrays ───────► Strings ───────► Linked Lists
+   │
+   ├──────────► Stacks / Queues
+   │
+   ├──────────► Trees ─────────► Graphs
+   │
+   └──────────► Recursion ─────► Backtracking ─────► Dynamic Programming
+
+I practice DSA to improve pattern recognition, complexity analysis, clean implementation and engineering intuition.
+
+🎯 Current Focus
+
+💻 Software Engineering
+
+🤖 AI / ML
+
+⚙️ Backend
+
+🧠 DSA
+
+Clean Architecture
+
+NLP
+
+REST APIs
+
+Problem Solving
+
+System Design
+
+ML Models
+
+Redis
+
+Algorithms
+
+Scalable Systems
+
+Deep Learning
+
+Distributed Systems
+
+Data Structures
+
+📊 GitHub Analytics
+
+<p align="center">
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kuldeepjhorar40&theme=github_dark&animation=load" alt="GitHub Profile Details"/>
+</p>
+
+<p align="center">
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kuldeepjhorar40&theme=github_dark&animation=rise" alt="GitHub Stats"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kuldeepjhorar40&theme=github_dark&animation=rise" alt="Languages by Repository"/>
+</p>
+
+These cards use GitHub Profile Summary Cards instead of the public GitHub Readme Stats instance to avoid the broken-card issue you were seeing.
+
+📚 Engineering Philosophy
+
+01  Learn the fundamentals
+        ↓
+02  Build the system
+        ↓
+03  Measure the result
+        ↓
+04  Find the bottleneck
+        ↓
+05  Improve the architecture
+        ↓
+06  Repeat
+
+I care about understanding why a system works, not just making it run.
+
+🤝 Connect With Me
+
+<p align="center">
+<strong>Open to Software Engineering internships, AI/ML opportunities, hackathons, open-source collaboration and challenging technical projects.</strong>
+</p>
+
+<p align="center">
 <a href="https://github.com/kuldeepjhorar40">
-<img src="https://img.shields.io/badge/GitHub-kuldeepjhorar40-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GITHUB-kuldeepjhorar40-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+</p>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Kuldeep_Jhorar-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+<p align="center">
+<strong>AI + SOFTWARE ENGINEERING + SYSTEMS</strong>
 <br/><br/>
+<code>Build → Measure → Improve → Scale</code>
+</p>
 
-### `Code • Learn • Build • Improve`
-
-<img src="https://komarev.com/ghpvc/?username=kuldeepjhorar40&style=for-the-badge&label=PROFILE+VIEWS" />
-
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00FFB2,50:7C3AED,100:00E5FF&text=Build.%20Learn.%20Scale.&fontColor=FFFFFF&fontSize=24&fontAlignY=70" alt="Footer"/>
 </div>
