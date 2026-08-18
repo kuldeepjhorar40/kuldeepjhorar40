@@ -1,100 +1,108 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:7c3aed,100:00ff88&height=220&section=header&text=Kuldeep%20Jhorar&fontSize=54&fontColor=ffffff&fontAlignY=35&desc=Building%20AI%20%E2%80%A2%20Solving%20Problems%20%E2%80%A2%20Crafting%20Scalable%20Systems&descSize=17&descAlignY=57&descColor=a5b4fc&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:7c3aed,100:00ff88&height=220&section=header&text=Kuldeep%20Jhorar&fontSize=54&fontColor=ffffff&fontAlignY=35&desc=AI%20%7C%20Software%20Engineering%20%7C%20Scalable%20Systems&descSize=17&descAlignY=57&descColor=a5b4fc&animation=fadeIn" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+%7C+Backend+Systems+%7C+Scalable+Architecture;Machine+Learning+%7C+Deep+Learning+%7C+Data+Science;Competitive+Programmer+%7C+DSA+Enthusiast;Always+Learning.+Always+Building.)](https://git.io/typing-svg)
+
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kuldeep--jhorar-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuldeep-jhorar/)
-[![GitHub](https://img.shields.io/badge/GitHub-kuldeepjhorar40-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kuldeepjhorar40)
-[![LeetCode](https://img.shields.io/badge/LeetCode-kuldeepjhorad-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kuldeepjhorad/)
-[![Profile Views](https://komarev.com/ghpvc/?username=kuldeepjhorar40&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/kuldeepjhorar40)
+
+
+
+
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&section=header" />
-
----
-
 <div align="center">
 
-## `$ whoami`
+$ whoami
 
 </div>
 
-```yaml
-name       : Kuldeep Jhorar
-education  : B.Tech Computer Science (AI & Data Science) — 6th Semester
-location   : India
-focus      : AI-Powered Applications · Backend Engineering · System Design
-experience : Data Science Intern @ CodeSoft
-status     : Open to Internships & Collaborations
-philosophy : "Code with clarity. Build with purpose. Learn without limits."
-```
+name        : Kuldeep Jhorar
+degree      : B.Tech — Artificial Intelligence & Data Science
+university  : CGC University, Mohali
+timeline    : Sep 2023 — Jul 2027
+semester    : 6th Semester
+cgpa        : 8.82
+location    : Punjab, India
 
----
+role        : AI & Software Engineering Student
+focus       : AI/ML · Full-Stack Development · Backend Engineering · System Design
+experience  : Data Science Intern @ CodeSoft
+leadership  : Tech Head — GeeksforGeeks Campus Body, CGC University
+achievement : Smart India Hackathon 2024 — National Runner-Up
+status      : Open to Software Engineering Internships & Collaborations
+
+goal        : Build production-ready AI systems and scalable software.
+philosophy  : "Code with clarity. Build with purpose. Learn without limits."
 
 <div align="center">
 
-## Tech Stack
-
-<br/>
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,mysql&theme=dark" />
-
-<br/><br/>
-
-**AI · Machine Learning · Data Science**
-<br/>
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-<br/>
-
-**Web Development**
-<br/>
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-<br/>
-
-**Databases**
-<br/>
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-<br/>
-
-**Cloud · DevOps**
-<br/>
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+🚀 About Me
 
 </div>
 
----
+I am Kuldeep Jhorar, a B.Tech student specializing in Artificial Intelligence & Data Science at CGC University, Mohali.
+
+I enjoy turning ideas into practical software — from AI/ML applications and intelligent resume analysis to full-stack platforms, distributed systems, and backend architectures.
+
+🎓 B.Tech in Artificial Intelligence & Data Science
+
+📊 8.82 CGPA
+
+🧠 Strong interest in AI, Machine Learning, Deep Learning & NLP
+
+💻 Building with React, Node.js, Express, Python and Django/Flask
+
+⚙️ Learning Redis, Celery, Docker, cloud and distributed systems
+
+🧩 Practicing DSA, problem solving and system design
+
+🏆 Smart India Hackathon 2024 — National Runner-Up
+
+👨‍💻 Tech Head — GFG Campus Body, CGC University
+
+💼 Completed a Data Science Internship at CodeSoft
+
+🎯 Career goal: Software Engineer / AI Engineer
 
 <div align="center">
 
-## Highlight Projects
+🛠️ Tech Stack
+
+Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,html,css&theme=dark" />
+
+AI · Machine Learning · Data Science
+
+
+
+
+
+
+
+
+Frontend · Backend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,tailwind&theme=dark" />
+
+Databases · Caching
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis&theme=dark" />
+
+Cloud · DevOps · Tools
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,github,vscode&theme=dark" />
+
+</div>
+
+<div align="center">
+
+⭐ Featured Projects
 
 </div>
 
@@ -102,82 +110,140 @@ philosophy : "Code with clarity. Build with purpose. Learn without limits."
 <tr>
 <td width="50%" valign="top">
 
-### 🌾 Crop Disease Detection
-Upload a crop image → AI model detects the disease → returns actionable treatment suggestions using deep learning image classification.
+🤖 AI Resume Analyzer
 
-![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-00f7ff?style=flat-square&logoColor=black)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+An AI-powered resume analysis platform that parses resumes, evaluates skills, identifies gaps and provides career-focused recommendations.
 
-</td>
-<td width="50%" valign="top">
+Architecture:
+React → Django REST API → Celery/Redis → ML Engine → PostgreSQL
 
-### 📈 Bitcoin Price Prediction
-Time-series forecasting model trained on historical BTC data to predict price trends and support trading insight decisions.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Time%20Series](https://img.shields.io/badge/-Time%20Series-7c3aed?style=flat-square)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+
+
+
 
 </td>
-</tr>
-<tr>
+
 <td width="50%" valign="top">
 
-### 🤖 AI Email Assistant
-AI system that reads emails, drafts context-aware replies, and syncs events to Google Calendar with user approval.
+⚙️ Distributed Job Queue System
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/-NLP-7c3aed?style=flat-square)
-![Google API](https://img.shields.io/badge/-Google%20API-4285F4?style=flat-square&logo=google&logoColor=white)
+A scalable job-processing system designed around producers, workers, queues and schedulers for reliable asynchronous workloads.
 
-</td>
-<td width="50%" valign="top">
+Focus: distributed processing, queues, retries, workers and scalability.
 
-### ⚙️ Distributed Job Queue System
-Scalable task processing system with producers, workers, and scheduler architecture for high-throughput workloads.
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### 📝 Resume Analyzer & Career Advisor
-Flask + ML application that parses resumes and surfaces personalized career improvement recommendations.
+📈 Bitcoin Price Prediction
 
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![NLP](https://img.shields.io/badge/-NLP-7c3aed?style=flat-square)
+Machine-learning/time-series project using historical Bitcoin market data to study price trends and generate predictions.
+
+
+
+
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🏠 Wonderlust — Property Booking Platform
-Full-stack Airbnb-style listing and booking platform with authentication, listing management, and reviews.
+🌾 Crop Disease Detection
 
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+Computer-vision application that analyzes crop images and predicts diseases using deep-learning image classification.
+
+
+
+
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+🏠 Wonderlust — Property Booking Platform
+
+A full-stack Airbnb-style platform with authentication, property listings, booking functionality, reviews and database-backed management.
+
+
+
+
+
+
+</td>
+
+<td width="50%" valign="top">
+
+📧 AI Email Assistant
+
+An AI-assisted workflow for understanding emails, generating context-aware responses and integrating calendar-related actions with user approval.
+
+
+
+
 
 </td>
 </tr>
 </table>
 
----
+<div align="center">
+
+🏆 Achievements & Leadership
+
+</div>
+
+Achievement
+
+Details
+
+🥇 Smart India Hackathon 2024
+
+National Runner-Up
+
+👨‍💻 GFG Campus Leadership
+
+Tech Head — GFG Campus Body, CGC University
+
+💼 Industry Experience
+
+Data Science Intern — CodeSoft
+
+🎓 Academics
+
+8.82 CGPA — B.Tech AI & Data Science
+
+🧩 Problem Solving
+
+Regular DSA & LeetCode practice
 
 <div align="center">
 
-## GitHub Analytics
+💻 Competitive Programming
+
+
+
+
+
+I actively work on Data Structures & Algorithms, including arrays, strings, linked lists, trees, graphs, dynamic programming, recursion, backtracking and problem-solving patterns.
+
+</div>
+
+<div align="center">
+
+📊 GitHub Analytics
 
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=kuldeepjhorar40&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=7c3aed&text_color=a5b4fc&ring_color=00f7ff" height="180" />
-&nbsp;&nbsp;
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeepjhorar40&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=a5b4fc" height="180" />
 
 <br/><br/>
@@ -194,86 +260,52 @@ Full-stack Airbnb-style listing and booking platform with authentication, listin
 
 </div>
 
----
+<div align="center">
+
+📈 Current Focus
+
+</div>
+
+Advanced Backend Engineering       ██████████████░░   80%
+AI-Powered Applications            █████████████░░░   75%
+System Design & Scalability         ████████████░░░░   70%
+DSA & Problem Solving               ████████████████   85%
+Machine Learning / Deep Learning    █████████████░░░   75%
 
 <div align="center">
 
-## Metrics Dashboard
+🧠 What I'm Building Toward
+
+</div>
+
+AI Engineering
+      ↓
+Production ML Systems
+      ↓
+Scalable Backend Architecture
+      ↓
+Distributed Systems
+      ↓
+High-Performance Software Engineering
+
+My long-term goal is to combine AI/ML expertise with strong software engineering and system-design skills to build reliable, scalable and useful products.
+
+<div align="center">
+
+🤝 Let's Connect
+
+I'm open to Software Engineering internships, AI/ML opportunities, research collaborations, hackathons and challenging technical projects.
 
 <br/>
 
-<img src="https://metrics.lecoq.io/kuldeepjhorar40?template=classic&base=header,activity,community,repositories&config.timezone=Asia/Kolkata&theme=github-dark" />
+
+
+
 
 <br/><br/>
 
-<img src="https://metrics.lecoq.io/kuldeepjhorar40?template=classic&base=&plugin_isocalendar=yes&plugin_isocalendar_duration=full-year&theme=github-dark" width="49%" />
-<img src="https://metrics.lecoq.io/kuldeepjhorar40?template=classic&base=&plugin_achievements=yes&plugin_achievements_display=compact&plugin_achievements_secrets=yes&theme=github-dark" width="49%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:7c3aed,100:00f7ff&height=120&section=footer&text=Let's%20Build%20Something%20Extraordinary&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
-<br/><br/>
-
-<img src="https://metrics.lecoq.io/kuldeepjhorar40?template=classic&base=&plugin_languages=yes&plugin_languages_analysis_timeout=15&plugin_languages_threshold=0%25&plugin_languages_limit=8&theme=github-dark" width="49%" />
-<img src="https://metrics.lecoq.io/kuldeepjhorar40?template=classic&base=&plugin_habits=yes&plugin_habits_charts=yes&plugin_habits_facts=yes&theme=github-dark" width="49%" />
-
-<br/><br/>
-
-<img src="https://metrics.lecoq.io/kuldeepjhorar40?template=classic&base=&plugin_skyline=yes&plugin_skyline_quality=high&theme=github-dark" />
-
-<br/>
-
-<sub>Rendered live via the <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> shared instance — no setup required, updates automatically with your GitHub activity.</sub>
-
-</div>
-
----
-
-<div align="center">
-
-## Competitive Programming
-
-![DSA](https://img.shields.io/badge/DSA-Graphs%20·%20DP%20·%20Backtracking-00f7ff?style=for-the-badge&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-Regular%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![HackerRank](https://img.shields.io/badge/HackerRank-Active-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
-
-Strong grasp of data structures, algorithms, and system design challenges.
-
-</div>
-
----
-
-<div align="center">
-
-## Current Focus
-
-```
-Advanced Backend Engineering       ████████████░░░░   75%
-AI-Powered Applications            ███████████░░░░░   70%
-System Design & Scalability        █████████░░░░░░░   60%
-Mastering DSA                      ████████████████   80%
-```
-
-</div>
-
----
-
-<div align="center">
-
-## Let's Connect
-
-Open to internships, research collaborations, and interesting AI/backend problems.
-Reach out through the channels below — not via public contact info.
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuldeep-jhorar/)
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kuldeepjhorar40)
-[![LeetCode](https://img.shields.io/badge/Challenge%20me%20on%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kuldeepjhorad/)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:7c3aed,100:00f7ff&height=120&section=footer&text=Let%27s%20Build%20Something%20Extraordinary&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
-
-*"I don't just learn technology — I build with it."*
+"I don't just learn technology — I build with it."
 
 </div>
