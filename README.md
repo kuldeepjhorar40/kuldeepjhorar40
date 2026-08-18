@@ -198,6 +198,36 @@ Full-stack Airbnb-style listing and booking platform with authentication, listin
 
 <div align="center">
 
+## Metrics Dashboard
+
+<br/>
+
+<img src="https://metrics.lecoq.io/kuldeepjhorar40?template=classic&base=header,activity,community,repositories&config.timezone=Asia/Kolkata&theme=github-dark" />
+
+<br/><br/>
+
+<img src="https://metrics.lecoq.io/kuldeepjhorar40?template=classic&base=&plugin_isocalendar=yes&plugin_isocalendar_duration=full-year&theme=github-dark" width="49%" />
+<img src="https://metrics.lecoq.io/kuldeepjhorar40?template=classic&base=&plugin_achievements=yes&plugin_achievements_display=compact&plugin_achievements_secrets=yes&theme=github-dark" width="49%" />
+
+<br/><br/>
+
+<img src="https://metrics.lecoq.io/kuldeepjhorar40?template=classic&base=&plugin_languages=yes&plugin_languages_analysis_timeout=15&plugin_languages_threshold=0%25&plugin_languages_limit=8&theme=github-dark" width="49%" />
+<img src="https://metrics.lecoq.io/kuldeepjhorar40?template=classic&base=&plugin_habits=yes&plugin_habits_charts=yes&plugin_habits_facts=yes&theme=github-dark" width="49%" />
+
+<br/><br/>
+
+<img src="https://metrics.lecoq.io/kuldeepjhorar40?template=classic&base=&plugin_skyline=yes&plugin_skyline_quality=high&theme=github-dark" />
+
+<br/>
+
+<sub>Rendered live via the <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> shared instance — no setup required, updates automatically with your GitHub activity.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
 ## Competitive Programming
 
 ![DSA](https://img.shields.io/badge/DSA-Graphs%20·%20DP%20·%20Backtracking-00f7ff?style=for-the-badge&logoColor=white)
