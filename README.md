@@ -1,437 +1,455 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════════════════════╗
-  ║  BUILD  •  LEARN  •  SCALE                                                   ║
-  ║  The most aesthetic, neon-glass, production-grade GitHub README            ║
-  ╚══════════════════════════════════════════════════════════════════════════════╝
--->
+<div align="center">
 
-<divalign="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,45:7C3AED,100:00FF9D&height=230&section=header&text=Kuldeep%20Jhorar&fontSize=58&fontColor=FFFFFF&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Scalable%20Systems&descSize=17&descAlignY=58&descColor=C4B5FD&animation=fadeIn" width="100%" alt="Kuldeep Jhorar header"/>
 
-  <!-- ═══════════════════════════════════ HEADER ═══════════════════════════════════ -->
-
-<img
- src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:7c3aed,100:00ff88&height=200&section=header&text=Build.%20Learn.%20Scale.&fontSize=48&fontColor=ffffff&fontAlignY=55&animation=fadeIn&textShadow=0%200%2040px%20rgba(0,247,255,0.4)"
- alt="Header"
- width="100%"
-/>
-
-  <br/>
-
-  <!-- ═══════════════════════════ BADGES ═══════════════════════════════════ -->
-
-  <a href="https://github.com/kuldeepjhorar40">
-    <img src="https://img.shields.io/badge/GitHub-kuldeepjhorar40-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-00f7ff?style=for-the-badge&logoColor=ffffff" alt="AI & ML"/>
-  <img src="https://img.shields.io/badge/Software%20Engineering-7c3aed?style=for-the-badge&logoColor=ffffff" alt="Software Engineering"/>
-  <img src="https://img.shields.io/badge/Scalable%20Systems-00ff88?style=for-the-badge&logoColor=0d1117" alt="Scalable Systems"/>
-
-<br/><br/>
-
-  <!-- ═══════════════════════════ HERO NAME ═══════════════════════════════════ -->
-
-<h1align="center">
-Kuldeep Jhorar
-
-  </h1>
-
-<palign="center">
-AI • Software Engineering • Scalable Systems
-
-  </p>
-
-<palign="center">
-"Code with clarity. Build with purpose. Learn without limits."
-
-  </p>
-
-  <hr/>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-
-<!--  WHOAMI — GLASS GRID                                                                                                         -->
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-
-<divalign="center">
-
-  <h2>🖥️ $ whoami</h2>
-
-  <div>
-
-<div>
-  <div>Name</div>
-  <div>Kuldeep Jhorar</div>
-</div>
-
-<div>
-  <div>Degree</div>
-  <div>B.Tech AI & Data Science</div>
-</div>
-
-<div>
-  <div>Timeline</div>
-  <div>Sep 2023 — Jul 2027</div>
-</div>
-
-<div>
-  <div>Location</div>
-  <div>Punjab, India</div>
-</div>
-
-<div>
-  <div>Role</div>
-  <div>AI & Software Eng. Student</div>
-</div>
-
-<div>
-  <div>Focus</div>
-  <div>AI/ML · Full-Stack · Backend · System Design</div>
-</div>
-
-<div>
-  <div>Achievement</div>
-  <div>SIH 2024 — National Runner-Up</div>
-</div>
-
-<div>
-  <div>Status</div>
-  <div>Open to Internships & Collabs</div>
-</div>
-
-<div>
-  <div>Goal</div>
-  <div>Production-Ready AI & Scalable Software</div>
-</div>
-
-  </div>
-</div>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=880&lines=Building+AI+that+ships.;Engineering+backends+that+scale.;Learning+systems+from+first+principles.;Turning+ideas+into+production-ready+software." alt="Typing SVG" />
+</a>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
+<a href="https://github.com/kuldeepjhorar40">
+  <img src="https://img.shields.io/badge/GitHub-kuldeepjhorar40-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<img src="https://img.shields.io/badge/AI%20%26%20ML-00E5FF?style=for-the-badge&logo=probot&logoColor=0D1117" alt="AI and ML"/>
+<img src="https://img.shields.io/badge/Backend%20Engineering-7C3AED?style=for-the-badge&logo=serverless&logoColor=white" alt="Backend Engineering"/>
+<img src="https://img.shields.io/badge/Scalable%20Systems-00FF9D?style=for-the-badge&logo=apachekafka&logoColor=0D1117" alt="Scalable Systems"/>
 
-<!--  ABOUT — BENTO GRID                                                                                                        -->
+<br/><br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
+<img src="https://komarev.com/ghpvc/?username=kuldeepjhorar40&label=PROFILE+VIEWS&color=7c3aed&style=flat-square" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/kuldeepjhorar40?label=FOLLOWERS&style=flat-square&color=00E5FF&labelColor=0D1117" alt="GitHub followers"/>
 
-<h2align="center">🚀 About Me</h2>
+<br/><br/>
 
-<palign="center">
-I am <strong>Kuldeep Jhorar</strong>, a B.Tech student specializing in <strong>Artificial Intelligence & Data Science</strong> at CGC University, Mohali. I enjoy turning ideas into practical software — from AI/ML applications and intelligent resume analysis to full-stack platforms, distributed systems, and backend architectures.
-
-</p>
-
-<divalign="center">
-
-  <div>
-    <h3>🎓 Academic & Career</h3>
-    <ul>
-      <li>B.Tech in Artificial Intelligence & Data Science</li>
-      <li><strong>8.82 CGPA</strong></li>
-      <li>Smart India Hackathon 2024 — <strong>National Runner-Up</strong></li>
-      <li>Tech Head — GFG Campus Body, CGC University</li>
-      <li>Completed Data Science Internship at <strong>CodeSoft</strong></li>
-      <li>Career goal: <strong>Software Engineer / AI Engineer</strong></li>
-    </ul>
-  </div>
-
-  <div>
-    <h3>🧠 What I Work On</h3>
-    <ul>
-      <li>AI, Machine Learning, Deep Learning & NLP</li>
-      <li>Full-stack web development</li>
-      <li>Backend engineering & REST APIs</li>
-      <li>Redis, Celery, Docker & distributed systems</li>
-      <li>DSA, problem solving & system design</li>
-      <li>Production-oriented AI applications</li>
-    </ul>
-  </div>
+“Code with clarity. Build with purpose. Learn without limits.”
 
 </div>
 
-<hr/>
+01 // identity
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
+┌──────────────────────────────────────────────────────────────────────┐
+│  KULDEEP JHORAR                                                      │
+├──────────────────────────────────────────────────────────────────────┤
+│  Degree      B.Tech — Artificial Intelligence & Data Science         │
+│  Timeline    Sep 2023 — Jul 2027                                     │
+│  Location    Punjab, India                                           │
+│                                                                      │
+│  Role        AI & Software Engineering Student                       │
+│  Focus       AI/ML · Backend · Full Stack · System Design             │
+│  Highlight   Smart India Hackathon 2024 — National Runner-Up         │
+│  Status      Open to SWE Internships & Technical Collaborations      │
+└──────────────────────────────────────────────────────────────────────┘
 
-<!--  TECH STACK                                                                                                         -->
+I build at the intersection of AI and software engineering — from intelligent applications and ML pipelines to backend APIs, asynchronous workers, distributed systems, and full-stack products.
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
+My goal is simple: understand the fundamentals, build real systems, measure what matters, and keep improving the architecture.
 
-<h2align="center">🧰 Tech Stack</h2>
+02 // current snapshot
 
-<divalign="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-  <h3>Languages</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,html,css&theme=dark" alt="Languages"/>
-  </p>
+🎓 Academic & Career
 
-  <h3>AI · Machine Learning · Data Science</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
-    <img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square" alt="NLP"/>
-    <img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=flat-square" alt="Machine Learning"/>
-    <img src="https://img.shields.io/badge/Deep%20Learning-00F7FF?style=flat-square" alt="Deep Learning"/>
-    <img src="https://img.shields.io/badge/Data%20Science-00FF88?style=flat-square&logoColor=0d1117" alt="Data Science"/>
-  </p>
+B.Tech — AI & Data Science
 
-  <h3>Frontend · Backend</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,tailwind&theme=dark" alt="Frontend and Backend"/>
-  </p>
+8.82 CGPA
 
-  <h3>Databases · Caching</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis&theme=dark" alt="Databases"/>
-  </p>
+Smart India Hackathon 2024 — National Runner-Up
 
-  <h3>Cloud · DevOps · Tools</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,github,vscode&theme=dark" alt="Cloud, DevOps and Tools"/>
-  </p>
+Tech Head — GFG Campus Body, CGC University
 
-</div>
+Data Science Internship — CodeSoft
 
-<hr/>
+Targeting Software Engineering / AI Engineering roles
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-
-<!--  FEATURED PROJECTS — NEON GRID                                                                                             -->
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-
-<h2align="center">⭐ Featured Projects</h2>
-
-<tablewidth="100%">
-
-  <tr>
-    <tdwidth="50%" valign="top">
-      <h3>🤖 AI Resume Analyzer</h3>
-      <p>
-        An AI-powered resume analysis platform that parses resumes, evaluates skills, identifies gaps and provides career-focused recommendations.
-      </p>
-      <div>
-        React → Django REST API → Celery / Redis → ML Engine → PostgreSQL
-      </div>
-      <p><strong>Focus:</strong> NLP, resume parsing, scoring, recommendations and AI-assisted career analysis.</p>
-    </td>
-
-<tdwidth="50%" valign="top">
-  <h3>⚙️ Distributed Job Queue System</h3>
-  <p>
-    A scalable job-processing system designed around producers, workers, queues and schedulers for reliable asynchronous workloads.
-  </p>
-  <p><strong>Focus:</strong> Distributed processing · Queue-based architecture · Workers & schedulers · Retries & fault tolerance · Scalability.</p>
 </td>
+<td width="50%" valign="top">
 
-  </tr>
+🧠 Engineering Focus
 
-  <tr>
-    <tdwidth="50%" valign="top">
-      <h3>🌾 Crop Disease Detection</h3>
-      <p>
-        A computer-vision application that analyzes crop images and predicts diseases using deep-learning image classification.
-      </p>
-      <p><strong>Focus:</strong> Image classification, computer vision and practical ML deployment.</p>
-    </td>
+AI, Machine Learning, Deep Learning & NLP
 
-<tdwidth="50%" valign="top">
-  <h3>🏠 Wonderlust — Property Booking Platform</h3>
-  <p>
-    A full-stack Airbnb-style platform with authentication, property listings, booking functionality, reviews and database-backed management.
-  </p>
-  <p><strong>Focus:</strong> Full-stack architecture, authentication, CRUD workflows and database design.</p>
+Backend engineering & REST APIs
+
+Full-stack product development
+
+Redis, Celery, Docker & distributed workflows
+
+Data Structures & Algorithms
+
+System design & production engineering
+
 </td>
-
-  </tr>
-
-  <tr>
-    <tdwidth="50%" valign="top">
-      <h3>📧 AI Email Assistant</h3>
-      <p>
-        An AI-assisted workflow for understanding emails, generating context-aware responses and integrating calendar-related actions with user approval.
-      </p>
-      <p><strong>Focus:</strong> LLM-assisted workflows, automation and human-in-the-loop actions.</p>
-    </td>
-
-<tdwidth="50%" valign="top">
-  <h3>🧩 Engineering Interests</h3>
-  <p>
-    I enjoy building systems where AI meets software engineering — especially backend services, intelligent APIs, asynchronous processing, ML pipelines and scalable application architecture.
-  </p>
-</td>
-
-  </tr>
-
+</tr>
 </table>
 
-<hr/>
+03 // technology matrix
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
+<div align="center">
 
-<!--  ACHIEVEMENTS & LEADERSHIP                                                                                       -->
+Languages
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,html,css&theme=dark" alt="Languages"/>
 
-<h2align="center">🏆 Achievements & Leadership</h2>
+Frontend · Backend
 
-<tablealign="center" width="90%">
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,tailwind&theme=dark" alt="Frontend and backend"/>
 
-  <tr>
-    <td>
-      <h4>🥇 Smart India Hackathon 2024</h4>
-      <p>National Runner-Up</p>
-    </td>
-    <td>
-      <h4>🎓 Academics</h4>
-      <p>8.82 CGPA — B.Tech AI & Data Science</p>
-    </td>
-    <td>
-      <h4>🧩 Problem Solving</h4>
-      <p>Regular DSA & LeetCode practice</p>
-    </td>
-  </tr>
+Databases · Caching
 
-  <tr>
-    <td>
-      <h4>👨‍💻 Leadership</h4>
-      <p>Tech Head — GFG Campus Body, CGC University</p>
-    </td>
-    <td>
-      <h4>💼 Industry Exposure</h4>
-      <p>Data Science Internship — CodeSoft</p>
-    </td>
-    <td>
-      <h4>💻 Competitive</h4>
-      <p>DSA, Algorithms & System Design</p>
-    </td>
-  </tr>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis&theme=dark" alt="Databases and caching"/>
 
+Cloud · DevOps · Tools
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,github,vscode&theme=dark" alt="Cloud DevOps and tools"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=flat-square&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-00E5FF?style=flat-square&logo=pytorch&logoColor=0D1117" alt="Deep Learning"/>
+<img src="https://img.shields.io/badge/NLP-FF8A00?style=flat-square&logo=spacy&logoColor=white" alt="NLP"/>
+<img src="https://img.shields.io/badge/Data%20Science-00FF9D?style=flat-square&logo=pandas&logoColor=0D1117" alt="Data Science"/>
+<img src="https://img.shields.io/badge/REST%20APIs-0D1117?style=flat-square&logo=postman&logoColor=FF6C37" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/System%20Design-111827?style=flat-square&logo=diagramsdotnet&logoColor=00E5FF" alt="System Design"/>
+
+</div>
+
+04 // flagship builds
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🤖 AI Resume Analyzer
+
+AI-powered resume intelligence platform
+
+React
+  │
+  ▼
+Django REST API
+  │
+  ├──► Celery Workers
+  │       │
+  │       ▼
+  │     Redis
+  │
+  ├──► ML / NLP Engine
+  │
+  ▼
+PostgreSQL
+
+What it does
+
+Parses and analyzes resumes
+
+Evaluates skills and profile quality
+
+Identifies skill gaps
+
+Produces career-focused recommendations
+
+Combines ML/NLP with production-style backend workflows
+
+Engineering themes: NLP Async Jobs REST APIs ML Pipelines
+
+</td>
+<td width="50%" valign="top">
+
+⚙️ Distributed Job Queue System
+
+Reliable asynchronous processing at scale
+
+Producer
+   │
+   ▼
+ Queue / Scheduler
+   │
+   ├──────────────┐
+   ▼              ▼
+Worker A       Worker B
+   │              │
+   └──────┬───────┘
+          ▼
+   Retry / Failure
+      Handling
+
+What it explores
+
+Producer / consumer architecture
+
+Queue-based workloads
+
+Concurrent workers
+
+Scheduling & retries
+
+Fault tolerance
+
+Scalability-oriented system design
+
+Engineering themes: Redis Workers Retries Distributed Systems
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+🌾 Crop Disease Detection
+
+Computer vision for practical agriculture
+
+Deep-learning image classification system that analyzes crop images and predicts likely diseases.
+
+Focus
+
+Image preprocessing
+
+Deep-learning classification
+
+Computer vision
+
+Model inference
+
+Practical ML deployment
+
+Engineering themes: Computer Vision Deep Learning Inference
+
+</td>
+<td width="50%" valign="top">
+
+🏠 Wonderlust
+
+Full-stack property booking platform
+
+Airbnb-style application featuring authentication, property listings, reviews, booking workflows, and database-backed management.
+
+Focus
+
+Authentication
+
+CRUD architecture
+
+Full-stack workflows
+
+Database design
+
+User-facing product engineering
+
+Engineering themes: Full Stack Auth CRUD Database Design
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+📧 AI Email Assistant
+
+Human-in-the-loop AI workflow
+
+An intelligent email assistant designed to understand messages, draft context-aware responses, and coordinate calendar-related actions with user approval.
+
+Focus
+
+LLM-assisted workflows
+
+Context-aware generation
+
+Automation
+
+Approval boundaries
+
+Productivity tooling
+
+Engineering themes: LLMs Automation Human in the Loop
+
+</td>
+<td width="50%" valign="top">
+
+🧩 The Systems I Like Building
+
+I am most interested in software where AI meets engineering:
+
+Intelligent APIs
+      +
+Async Processing
+      +
+ML Pipelines
+      +
+Reliable Backends
+      +
+Scalable Architecture
+
+The goal is not just a working demo — it is a system that is understandable, testable, maintainable, and ready to evolve.
+
+</td>
+</tr>
 </table>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
+<div align="center">
 
-<!--  DSA — CHECKLIST                                                                                                     -->
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-
-<h2align="center">💻 Competitive Programming</h2>
-
-<palign="center">
-I actively work on Data Structures & Algorithms, including:
-
-</p>
-
-<divalign="center">
-Arrays
-Strings
-Linked Lists
-Stacks & Queues
-Trees
-Graphs
-Recursion
-Backtracking
-Dynamic Programming
-Problem-Solving Patterns
+<a href="https://github.com/kuldeepjhorar40?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20All%20Repositories-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="Explore repositories"/>
+</a>
 
 </div>
 
-<palign="center">
-My goal is not just to solve problems, but to understand the underlying patterns and build better engineering intuition.
+05 // achievements
 
-</p>
+<div align="center">
 
-<hr/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
 
-<!--  GITHUB ANALYTICS — GLASS WRAP                                                                                     -->
+Achievement
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
+Detail
 
-<h2align="center">📊 GitHub Analytics</h2>
+🥇
 
-<divalign="center">
+Smart India Hackathon 2024
 
-<divalign="center">
-<img
-   src="https://github-readme-stats.vercel.app/api?username=kuldeepjhorar40&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=7c3aed&text_color=a5b4fc&ring_color=00f7ff"
-   height="180"
-   alt="GitHub Stats"
- />
-<img
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeepjhorar40&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=a5b4fc"
-   height="180"
-   alt="Top Languages"
- />
+National Runner-Up
 
-  </div>
+🎓
 
-  <br/>
+Academics
 
-<divalign="center">
-<img
-   src="https://github-readme-streak-stats.herokuapp.com/?user=kuldeepjhorar40&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=7c3aed&currStreakLabel=00f7ff&sideLabels=a5b4fc&dates=5a6478"
-   alt="GitHub Streak"
- />
+8.82 CGPA — B.Tech AI & Data Science
 
-  </div>
+👨‍💻
 
-  <br/>
+Leadership
 
-<divalign="center">
-<img
-   src="https://github-readme-trophies.vercel.app/?username=kuldeepjhorar40&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1"
-   alt="GitHub Trophies"
- />
+Tech Head — GFG Campus Body, CGC University
 
-  </div>
+💼
 
-  <br/>
+Industry Exposure
 
-<divalign="center">
-<img
-   src="https://github-readme-activity-graph.vercel.app/graph?username=kuldeepjhorar40&theme=tokyo-night&bg_color=0d1117&color=00f7ff&line=7c3aed&point=00ff88&area=true&hide_border=true"
-   alt="GitHub Activity Graph"
- />
+Data Science Internship — CodeSoft
 
-  </div>
+🧩
+
+Problem Solving
+
+Consistent DSA & LeetCode practice
 
 </div>
 
-<hr/>
+06 // problem-solving engine
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
+I practice DSA to build reasoning patterns, not just solution counts.
 
-<!--  CURRENT FOCUS — NEON PROGRESS                                                                                              -->
+Arrays ──► Strings ──► Linked Lists ──► Stacks / Queues
+   │
+   ├────► Trees ──► Graphs
+   │
+   └────► Recursion ──► Backtracking ──► Dynamic Programming
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
+What I optimize for:
 
-<h2align="center">📈 Current Focus</h2>
+recognizing patterns quickly
 
-Focus Area
+understanding time and space trade-offs
 
-Progress
+writing clean, explainable solutions
 
-🔧 Advanced Backend Engineering
+connecting algorithms to real engineering problems
 
-██████████████░░ 80%
+07 // engineering trajectory
 
-🤖 AI-Powered Applications
+<div align="center">
 
-█████████████░░░ 75%
+<table>
+<tr>
+<td align="center"><b>🤖 AI / ML</b><br/><sub>models · NLP · vision</sub></td>
+<td align="center">➜</td>
+<td align="center"><b>⚙️ Backend</b><br/><sub>APIs · workers · data</sub></td>
+<td align="center">➜</td>
+<td align="center"><b>🏗️ System Design</b><br/><sub>scale · reliability</sub></td>
+<td align="center">➜</td>
+<td align="center"><b>🌐 Distributed Systems</b><br/><sub>queues · concurrency</sub></td>
+<td align="center">➜</td>
+<td align="center"><b>🚀 Production</b><br/><sub>ship · observe · improve</sub></td>
+</tr>
+</table>
 
-🏗️ System Design & Scalability
+</div>
 
-████████████░░░░ 70%
+Current learning intensity
 
-🧩 DSA & Problem Solving
+Backend Engineering       ████████████████░░░░  80%
+AI-Powered Applications   ███████████████░░░░░  75%
+System Design             ██████████████░░░░░░  70%
+DSA & Problem Solving     █████████████████░░░  85%
+ML / Deep Learning        ███████████████░░░░░  75%
 
-████████████████ 85%
+08 // github telemetry
 
-🧠 Machine Learning / Deep Learning
+<div align="center">
 
-█████████████░░░ 75%
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kuldeepjhorar40&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED&text_color=C4B5FD&ring_color=00FF9D" alt="Kuldeep's GitHub stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeepjhorar40&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C4B5FD" alt="Top languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=kuldeepjhorar40&hide_border=true&background=0D1117&ring=00E5FF&fire=7C3AED&currStreakNum=FFFFFF&currStreakLabel=00E5FF&sideNums=FFFFFF&sideLabels=C4B5FD&dates=64748B" alt="GitHub streak"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=kuldeepjhorar40&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" alt="GitHub trophies"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kuldeepjhorar40&bg_color=0D1117&color=00E5FF&line=7C3AED&point=00FF9D&area=true&hide_border=true" width="100%" alt="GitHub activity graph"/>
+
+</div>
+
+09 // engineering philosophy
+
+01. Learn the fundamentals.
+02. Build the system.
+03. Measure the result.
+04. Find the bottleneck.
+05. Improve the architecture.
+06. Repeat.
+
+I care about why a system works, not only whether it runs.
+
+That means understanding the model, the API contract, the data flow, the queue, the database, the failure modes, the performance trade-offs, and the experience of the person using it.
+
+10 // open to
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Software%20Engineering-Internships-00E5FF?style=for-the-badge&labelColor=0D1117" alt="Software Engineering Internships"/>
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-Opportunities-7C3AED?style=for-the-badge&labelColor=0D1117" alt="AI ML Opportunities"/>
+<img src="https://img.shields.io/badge/Open%20Source-Collaboration-00FF9D?style=for-the-badge&labelColor=0D1117&logo=opensourceinitiative&logoColor=00FF9D" alt="Open Source"/>
+<img src="https://img.shields.io/badge/Hackathons-%26%20Research-FF8A00?style=for-the-badge&labelColor=0D1117" alt="Hackathons and Research"/>
+
+<br/><br/>
+
+If you're building something technically ambitious, I'd love to hear about it.
+
+<a href="https://github.com/kuldeepjhorar40">
+  <img src="https://img.shields.io/badge/CONNECT%20ON%20GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Connect on GitHub"/>
+</a>
+
+</div>
+
+<div align="center">
+
+AI + ENGINEERING + SYSTEMS
+
+Building software that is intelligent, scalable, and useful.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9D,50:7C3AED,100:00E5FF&height=150&section=footer&text=Build.%20Measure.%20Improve.%20Scale.&fontSize=22&fontColor=FFFFFF&fontAlignY=70&animation=fadeIn" width="100%" alt="Footer"/>
+
+</div>
