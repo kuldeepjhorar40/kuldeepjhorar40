@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:7c3aed,100:00ff88&height=200&section=header&text=Kuldeep%20Jhorar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Building%20AI%20%E2%80%A2%20Solving%20Problems%20%E2%80%A2%20Crafting%20Scalable%20Systems&descSize=16&descAlignY=58&descColor=a5b4fc&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:7c3aed,100:00ff88&height=220&section=header&text=Kuldeep%20Jhorar&fontSize=54&fontColor=ffffff&fontAlignY=35&desc=Building%20AI%20%E2%80%A2%20Solving%20Problems%20%E2%80%A2%20Crafting%20Scalable%20Systems&descSize=17&descAlignY=57&descColor=a5b4fc&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%7C+Backend+Systems+%7C+Scalable+Architecture;Competitive+Programmer+%7C+DSA+Enthusiast;Always+Learning.+Always+Building.)](https://git.io/typing-svg)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+%7C+Backend+Systems+%7C+Scalable+Architecture;Machine+Learning+%7C+Deep+Learning+%7C+Data+Science;Competitive+Programmer+%7C+DSA+Enthusiast;Always+Learning.+Always+Building.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -12,8 +14,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=kuldeepjhorar40&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/kuldeepjhorar40)
 
 </div>
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&section=header" />
 
@@ -27,9 +27,10 @@
 
 ```yaml
 name       : Kuldeep Jhorar
-education  : B.Tech Computer Science — 6th Semester
+education  : B.Tech Computer Science (AI & Data Science) — 6th Semester
 location   : India
 focus      : AI-Powered Applications · Backend Engineering · System Design
+experience : Data Science Intern @ CodeSoft
 status     : Open to Internships & Collaborations
 philosophy : "Code with clarity. Build with purpose. Learn without limits."
 ```
@@ -40,43 +41,47 @@ philosophy : "Code with clarity. Build with purpose. Learn without limits."
 
 ## Tech Stack
 
-</div>
-
-<div align="center">
+<br/>
 
 **Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,mysql&theme=dark" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<br/><br/>
 
-**AI · Data Science**
-
+**AI · Machine Learning · Data Science**
+<br/>
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-**Web Development**
+<br/>
 
+**Web Development**
+<br/>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**Databases**
+<br/>
 
+**Databases**
+<br/>
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-**Cloud · DevOps**
+<br/>
 
+**Cloud · DevOps**
+<br/>
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -97,7 +102,29 @@ philosophy : "Code with clarity. Build with purpose. Learn without limits."
 <tr>
 <td width="50%" valign="top">
 
-### AI Email Assistant
+### 🌾 Crop Disease Detection
+Upload a crop image → AI model detects the disease → returns actionable treatment suggestions using deep learning image classification.
+
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-00f7ff?style=flat-square&logoColor=black)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 Bitcoin Price Prediction
+Time-series forecasting model trained on historical BTC data to predict price trends and support trading insight decisions.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Time%20Series](https://img.shields.io/badge/-Time%20Series-7c3aed?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Email Assistant
 AI system that reads emails, drafts context-aware replies, and syncs events to Google Calendar with user approval.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -107,7 +134,7 @@ AI system that reads emails, drafts context-aware replies, and syncs events to G
 </td>
 <td width="50%" valign="top">
 
-### Distributed Job Queue System
+### ⚙️ Distributed Job Queue System
 Scalable task processing system with producers, workers, and scheduler architecture for high-throughput workloads.
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -119,7 +146,7 @@ Scalable task processing system with producers, workers, and scheduler architect
 <tr>
 <td width="50%" valign="top">
 
-### Resume Analyzer & Career Advisor
+### 📝 Resume Analyzer & Career Advisor
 Flask + ML application that parses resumes and surfaces personalized career improvement recommendations.
 
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -129,18 +156,13 @@ Flask + ML application that parses resumes and surfaces personalized career impr
 </td>
 <td width="50%" valign="top">
 
-### Crop Disease Detection
-Upload a crop image → AI model detects the disease → returns actionable treatment suggestions.
+### 🏠 Wonderlust — Property Booking Platform
+Full-stack Airbnb-style listing and booking platform with authentication, listing management, and reviews.
 
-![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-00f7ff?style=flat-square&logoColor=black)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center" valign="top">
-
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 </td>
 </tr>
@@ -161,6 +183,10 @@ Upload a crop image → AI model detects the disease → returns actionable trea
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuldeepjhorar40&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=7c3aed&currStreakLabel=00f7ff&sideLabels=a5b4fc&dates=5a6478" />
+
+<br/><br/>
+
+<img src="https://github-readme-trophies.vercel.app/?username=kuldeepjhorar40&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
 
 <br/><br/>
 
@@ -201,11 +227,23 @@ Mastering DSA                      ███████████████
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:7c3aed,100:00f7ff&height=120&section=footer&text=Let%27s%20Build%20Something%20Extraordinary&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+## Let's Connect
 
-*"I don't just learn technology — I build with it."*
+Open to internships, research collaborations, and interesting AI/backend problems.
+Reach out through the channels below — not via public contact info.
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuldeep-jhorar/)
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kuldeepjhorar40)
+[![LeetCode](https://img.shields.io/badge/Challenge%20me%20on%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kuldeepjhorad/)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:7c3aed,100:00f7ff&height=120&section=footer&text=Let%27s%20Build%20Something%20Extraordinary&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+
+*"I don't just learn technology — I build with it."*
 
 </div>
